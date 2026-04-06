@@ -1,7 +1,7 @@
 {
-    "spam_delay": 0.1,
+    "spam_delay": 0.3,
     "max_messages": 1000,
-    "use_proxies": false,
-    "proxy_type": "http",
+    "use_proxies": true,
+    "proxy_type": "socks5",
     "default_messages": ["* TEST *", "raid mode activated", "discord down?"]
 }
