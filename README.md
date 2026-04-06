@@ -33,7 +33,7 @@
 ## 🛠️ Prerequisites
 
 ### Required
-Python 3.8+ ✅ Git ✅ (optional) Windows/Linux/Mac ✅ 5 minutes ⏱️
+Python 3.8+ ✅ Git ✅ (optional) Windows/Linux/Mac
 ### Install Python
 **Windows:** [python.org/downloads](https://python.org/downloads) → **Add to PATH**
 **Linux:** `sudo apt install python3 python3-pip`
@@ -45,8 +45,8 @@ Python 3.8+ ✅ Git ✅ (optional) Windows/Linux/Mac ✅ 5 minutes ⏱️
 
 ```bash
 # 1. Download
-git clone https://github.com/YOURUSERNAME/discord-automation.git
-cd discord-automation
+git clone https://github.com/vxnkx/pochemu.git
+cd pochemu
 
 # 2. Install
 pip install -r requirements.txt
@@ -59,8 +59,8 @@ Choose 1 → Enter token → Enter channel ID → Type message → SPAM!
 📖 Complete Setup Tutorial
 Step 1: Clone & Install (2 min)
 ```bash
-git clone https://github.com/YOURUSERNAME/discord-automation.git
-cd discord-automation
+git clone https://github.com/vxnkx/pochemu.git
+cd pochemu
 pip install -r requirements.txt
 ✅ Test: python main.py → See colorful menu
 ```
@@ -97,7 +97,8 @@ Menu appears → Choose 1-6 → Follow prompts → Done!
 🧰 Tool-by-Tool Guide
 
 1️⃣ Message Spammer ⭐ Easiest
-Input needed:
+Input needed: 
+
 • Token (from Step 2)
 • Channel ID (right-click channel → Copy ID)
 • Message ("🌀 TEST 🌀")
@@ -105,12 +106,14 @@ Input needed:
 Output: 1000+ messages in <10 seconds
 
 2️⃣ Server Raider ( Most Fun )
-Input needed:
+Input needed: 
+
 • Token
 • Invite link/code (discord.gg/ABC123 → just "ABC123")
 • Messages ("raid1,raid2,raid3")
 
-What it does:
+What it does: 
+
 1. Joins server
 2. Spams 10 channels
 3. Creates 25 spam roles
@@ -118,17 +121,20 @@ What it does:
 5. Leaves after 60s
 
 3️⃣ Account Nuker 💥 Destructive WIP
-Input needed:
+Input needed: 
+
 • TARGET account's token
 
-Destroys:
+Destroys: 
+
 • All messages (bulk delete)
 • All servers (leave)
 • All DMs (purge)
 • Webhooks (delete)
 
 4️⃣ Mass DM Sender
-Input needed:
+Input needed: 
+
 • Token
 • Targets file OR "id1,id2,id3"
 • Message
@@ -136,7 +142,8 @@ Input needed:
 Sends DMs to 50+ users safely
 
 5️⃣ Reaction Spammer 😈
-Input needed:
+Input needed: 
+
 • Token
 • Channel ID
 • Message ID (right-click message → Copy ID)
