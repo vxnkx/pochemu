@@ -251,5 +251,8 @@ DMMER  	1/sec	         2/sec	      100 users
 ### 📞 Support
 Discord: Add new tools → Open issue
 Issues: github.com/vxnkx/pochemu/issues
-Made with ❤️ for Discord automation enthusiasts
-https://img.shields.io/badge/version-2.0-00D2FF?style=for-the-badge&logo=discord&logoColor=white
+
+#Made with ❤️ for Discord automation enthusiasts
+<div align="center">
+  <img src="https://img.shields.io/badge/version-2.0-00D2FF?style=for-the-badge&logo=discord&logoColor=white" alt="discord.py">
+</div>
