@@ -8,7 +8,7 @@ def create_embed_spam(title="Spam", description="🌀", color=0xff0000):
 
 def generate_spam_messages(count=10):
     templates = [
-        "🌀 TEST 🌀",
+        "* TEST *",
         "discord raid active",
         "server compromised",
         f"message #{random.randint(1,999)}"
